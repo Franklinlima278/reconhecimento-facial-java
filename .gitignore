@@ -1,0 +1,7 @@
+*.class
+*.log
+*.dll
+*.jar
+foto.jpg
+resultado.jpg
+.vscode/
